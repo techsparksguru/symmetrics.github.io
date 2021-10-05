@@ -9,7 +9,7 @@
     link: /contact/
 - links:
   - name: Login
-    link: https://visametrics.symmetrics.fyi/login
+    link: https://reports.symmetrics.fyi/login
     new_window: true
   - name: Schema
     link: /schema-dictionary
@@ -18,7 +18,7 @@
     link: /reports
     new_window: true
   - name: Videos
-    link: /
+    link: /reports
     new_window: true
 - links:
   - name: Facebook

@@ -15,10 +15,10 @@
   new_window: false
   highlight: false
 - name: Login
-  link: https://visametrics.symmetrics.fyi/login
+  link: https://reports.symmetrics.fyi/login
   new_window: true
   highlight: false
 - name: Sign Up
-  link: https://visametrics.symmetrics.fyi/register/form
+  link: https://reports.symmetrics.fyi/register/form
   new_window: true
   highlight: true
