@@ -1,0 +1,16 @@
+---
+title: Simplistic User Guide
+description: >-
+  We value your time and eyes. Below are the most viewed, used and valued reports that our subscribers use
+---
+
+<p class="editor-link" style="text-align: center;"><a href="/_user_guide/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
+<ul class="staff">
+	{% for report in site.user_guide %}
+		<li>
+			<div class="square-image"><img src="{% include relative-src.html src=report.image_path %}" alt="{{ report.name }}"/></div>
+			<div class="name"><a target="_blank" href="https://twitter.com/{{ report.more_details }}">{{ report.more_details }}</a></div>
+			<div class="segment">{{ report.segment }}</div>
+		</li>
+	{% endfor %}
+</ul>

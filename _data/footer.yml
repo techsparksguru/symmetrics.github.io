@@ -1,0 +1,39 @@
+- links:
+  - name: Pricing
+    link: /symmetrics_pricing/
+  - name: Projects
+    link: /projects/
+  - name: FAQ
+    link: /faq/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: Login
+    link: https://visametrics.symmetrics.fyi/login
+    new_window: true
+  - name: Schema
+    link: /schema-dictionary
+    new_window: true
+  - name: Reports
+    link: /reports
+    new_window: true
+  - name: Videos
+    link: /
+    new_window: true
+- links:
+  - name: Facebook
+    link: https://facebook.com/symmetrics/
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/symmetrics/
+    social_icon: Twitter
+    new_window: true
+  - name: YouTube
+    link: https://youtube.com/symmetrics/
+    social_icon: YouTube
+    new_window: true
+  # - name: RSS
+  #   link: /feed.xml
+  #   social_icon: RSS
+  #   new_window: false

@@ -1,0 +1,24 @@
+- name: REPORTS
+  link: /reports/
+  new_window: false
+  highlight: false
+- name: FAQ
+  link: /faq/
+  new_window: false
+  highlight: false
+- name: Pricing
+  link: /symmetrics_pricing/
+  new_window: false
+  highlight: false
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: false
+- name: Login
+  link: https://visametrics.symmetrics.fyi/login
+  new_window: true
+  highlight: false
+- name: Sign Up
+  link: https://visametrics.symmetrics.fyi/register/form
+  new_window: true
+  highlight: true
