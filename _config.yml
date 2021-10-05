@@ -2,8 +2,8 @@
 # Site
 
 title: Symmetrics
-domain: symmetrics.fyi
-url: "https://symmetrics.fyi"
+domain:
+url:
 baseurl:
 producturl: https://visametrics.symmetrics.fyi
 google_analytics_key:
