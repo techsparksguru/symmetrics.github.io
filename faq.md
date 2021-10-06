@@ -13,7 +13,7 @@ Please see our <strong>rough</strong> roadmap before reading other questions.
 All the reports are available under Dashboads menu. Please click "Dashboards" from the top menu and you will see the reports
 
 ### Can I select multiple values in filters e.g. multiple employers, multiple states, multiple cities, multiple job titles etc.
-Multiple values are available only in <strong>paid subscriptions for B2B users.</strong> For B2C users, we are working on a new subscription to enable multiple input-values for filters. Multiple values increase the load on our big data servers exponentially, so at this point the feature is not available for free tier  
+Multiple values are available only in *paid subscriptions* for B2B users.</strong> For B2C users, we are working on a new subscription to enable multiple input-values for filters. Multiple values increase the load on our big data servers exponentially, so at this point the feature is not available for free tier  
 <br>
 <br>
 
@@ -22,7 +22,10 @@ We do not provide email reports at this point, because data is changing frequent
 
 ### I forgot my password
 We are actively working on providing a forgot password on login page. However at this time, we are tackling multiple priorities, so if you forgot and every other option is in vain, please write to us directly at [email](mailto:hello@symmetrics.fyi).  
-<strong>Note</strong> We will try our best to respond as quickly as possible
+<strong>Note</strong> We will try our best to respond as quickly as possible  
+<br>
+<br>
+<br>
 
 # DATA 
 
