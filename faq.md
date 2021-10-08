@@ -2,11 +2,6 @@
 title: FAQ
 ---
 
-Please see our <strong>rough</strong> roadmap before reading other questions.   
-
-![Roadmap](/images/public_roadmap.png)
-
-
 # Frontend UI
 
 ### I see blank screen as soon as I login. Where is my content ?
@@ -112,3 +107,9 @@ We would need to understand your definition of tenant before we can help you. Be
 - Infrastructure tenancy and so on...  
 
 You can compare tenancy to hosting in the CMS hosting space. Hosting providers give options for shared hosting or dedicated hosting depending on agreements. We can provide the same. Please reach out
+
+### Roadmap
+
+Please see our <strong>rough</strong> roadmap  
+
+![Roadmap](/images/public_roadmap.png)
