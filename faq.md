@@ -13,7 +13,7 @@ Please see our <strong>rough</strong> roadmap before reading other questions.
 All the reports are available under Dashboads menu. Please click "Dashboards" from the top menu and you will see the reports
 
 ### Can I select multiple values in filters e.g. multiple employers, multiple states, multiple cities, multiple job titles etc.
-Multiple values are available only in *paid subscriptions* for B2B users.</strong> For B2C users, we are working on a new subscription to enable multiple input-values for filters. Multiple values increase the load on our big data servers exponentially, so at this point the feature is not available for free tier  
+Multiple values are available only in *paid subscriptions* for B2B users. For B2C users, we are working on a new subscription to enable multiple input-values for filters. Multiple values increase the load on our big data servers exponentially, so at this point the feature is not available for free tier  
 <br>
 <br>
 
@@ -95,3 +95,6 @@ That said, for B2B clients (recruiters and employers), we can provide your speci
 For B2C clients, if you are looking for a specific company/employer and details , please reach out by filling in the details on the google form and we will get back to you  
 <br>
 <br>
+
+### Can I unsubscribe and ask my user be deleted ?
+Absolutely ! We respect your privacy and that is one of our core values. Write to us providing your full details, so that we know it is exactly you asking the user to be deleted at [email](mailto:hello@symmetrics.fyi)
