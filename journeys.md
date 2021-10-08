@@ -4,7 +4,6 @@ title: Journeys
 
 Navigating a multi-dimensional land can be stressful, and confusing at times. Being a domain expert helps, even then it can be an avalanche of information to process, correlate and make sense to drive actions. With our platform, we create journeys based on the needs of the participants.
 
-### Journeys INTRO
 
 **A JOURNEY is a navigation path within our platform that tries to satisfy a need**
 
