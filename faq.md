@@ -98,3 +98,17 @@ For B2C clients, if you are looking for a specific company/employer and details 
 
 ### Can I unsubscribe and ask my user be deleted ?
 Absolutely ! We respect your privacy and that is one of our core values. Write to us providing your full details, so that we know it is exactly you asking the user to be deleted at [email](mailto:hello@symmetrics.fyi)
+
+
+# General
+
+### Why did you choose .fyi ?
+There is no specific reason , but we thought the suffix aligned with the information that we provided and also reflected `how` we provided the information without being intrusive (FYI = For your information) 
+
+### I am a B2B subscriber, can I get my own tenant ?
+We would need to understand your definition of tenant before we can help you. Below are few concerns that might be relevant to tenancy  
+- Tenancy for data 
+- Tenancy at meta data 
+- Infrastructure tenancy and so on...  
+
+You can compare tenancy to hosting in the CMS hosting space. Hosting providers give options for shared hosting or dedicated hosting depending on agreements. We can provide the same. Please reach out
