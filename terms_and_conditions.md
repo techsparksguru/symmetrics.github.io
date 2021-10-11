@@ -32,6 +32,8 @@ You must not:
 
 - Redistribute content from symmetrics.fyi
 
+- Subscribe as B2C customer and use the data to advise, consult or provide any guidance to any other person or entity. The data you consume is only for you alone
+
 This Agreement shall begin on the date hereof.
 
 Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Spark IQ Tech does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Spark IQ Tech,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Spark IQ Tech(OPC) Pvt. Ltd shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
