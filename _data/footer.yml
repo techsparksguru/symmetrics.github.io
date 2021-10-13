@@ -21,6 +21,16 @@
     link: /reports
     new_window: true
 - links:
+  - name: Informational
+    link: /informational_reports
+    new_window: true
+  - name: What If
+    link: /what_if_reports
+    new_window: true
+  - name: Goal Based
+    link: /goal_based_reports
+    new_window: true
+
   # - name: Facebook
   #   link: https://facebook.com/symmetrics/
   #   new_window: true
