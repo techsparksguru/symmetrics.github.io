@@ -10,7 +10,7 @@ title: DATA TRUST POLICY
 
 # Public Disclosure
 - We use public disclosure data for high skilled programs and other work visas (and enhance it with our meta data).
-- As per PEW research, the data is 18-20% of all salaries ([2018 research report](https://www.pewresearch.org/fact-tank/2020/02/24/the-share-of-immigrant-workers-in-high-skill-jobs-is-rising-in-the-u-s/)) reported for high skilled workers in the United States. Using that information and correlating with our database of <strong>10 million data points</strong>, there are <strong>~11.7 million high skilled workers</strong> at the end of 2021.
+- As per PEW research, the data is 18-20% of all salaries ([2018 research report](https://www.pewresearch.org/fact-tank/2020/02/24/the-share-of-immigrant-workers-in-high-skill-jobs-is-rising-in-the-u-s/)) reported for high skilled workers in the United States. Using that information and correlating with our database of <strong>10 million+ data points</strong>, there are <strong>~11.7 million high skilled workers</strong> at the end of 2021.
 - All of our competitors have sample sets and that means analytics run on sample sets are inadequate at best, and misguiding and manipulative at worst. From a legal side, the argument is made as "in the eyes of beholder", pushing the responsibility of interpretation to the end-user. 
 - At Symmetrics, our data is statistically significant and we don't release analytics unless it models the real world and helps fair negotiation (i.e. the data is employer submitted, government verified).
 
@@ -21,7 +21,7 @@ title: DATA TRUST POLICY
 
 # How accurate is the data ?
 - Our data is from the horse’s mouth i.e. public disclosure information released by USCIS/DHS under FOIA act. 
-- Our insights are powered by <strong>~10million</strong> de-duped (non duplicates) data points and by far the <i>only portal on the internet</i> that crunches so many data points. For statisticians out there, all our competitors provide sample data and at best dump tables and expect readers to figure out insights. 
+- Our insights are powered by <strong>~10 million+</strong> de-duped (non duplicates) data points and by far the <i>only portal on the internet</i> that crunches so many data points. For statisticians out there, all our competitors provide sample data and at best dump tables and expect readers to figure out insights. 
 - We took extra care to clean up the data, make meaningful inferences (interpolation and extrapolation) using data warehouse, database, and data science inferences and best practices in the big data domain. We <strong>tested the accuracy of data</strong> after building it and ensured it meets our quality standards, before releasing it to the world.
 - Below are some of our high level strengths that none of the competitors achieved till date.
 
