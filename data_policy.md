@@ -10,7 +10,7 @@ title: DATA TRUST POLICY
 
 # Public Disclosure
 - We use public disclosure data for high skilled programs and other work visas (and enhance it with our meta data).
-- As per PEW research, the data is 18-20% of all salaries ([2018 research report](https://www.pewresearch.org/fact-tank/2020/02/24/the-share-of-immigrant-workers-in-high-skill-jobs-is-rising-in-the-u-s/)) reported for high skilled workers in the United States. Using that information and correlating with our database of 10 million data points, there are <strong>~11.7 million high skilled workers</strong> at the end of 2021.
+- As per PEW research, the data is 18-20% of all salaries ([2018 research report](https://www.pewresearch.org/fact-tank/2020/02/24/the-share-of-immigrant-workers-in-high-skill-jobs-is-rising-in-the-u-s/)) reported for high skilled workers in the United States. Using that information and correlating with our database of <strong>10 million data points</strong>, there are <strong>~11.7 million high skilled workers</strong> at the end of 2021.
 - All of our competitors have sample sets and that means analytics run on sample sets are inadequate at best, and misguiding and manipulative at worst. From a legal side, the argument is made as "in the eyes of beholder", pushing the responsibility of interpretation to the end-user. 
 - At Symmetrics, our data is statistically significant and we don't release analytics unless it models the real world and helps fair negotiation (i.e. the data is employer submitted, government verified).
 
