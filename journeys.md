@@ -11,10 +11,14 @@ Navigating a multi-dimensional land can be stressful, and confusing at times. Be
 
 - A journey needs to have a goal
 
-- Goals have to be relatively specific (For e.g. I want to make more money is the goal for everyone - so that is not specific enough for your needs)
+- Goals have to be relatively specific (For e.g. I want to make more money is the goal for everyone - so that is not specific enough)
 
-- A goal needs to bounded by at least 3 dimensions among [Geo, Industry, Wage, Approvals, Rank..]
+- A goal needs to bounded by at least 3 dimensions among [Geo, Industry, Wage, Approvals, Rank..]. Examples are below
 
     - Which employers pay a min. W wage, in the state of X, with an approval rate of at least Y%, and a rank of Z or higher ?
 
-    - Which employers pay a min. V wage, in W state X city, with an approval rate of at least Y%, and a rank of Z or higher ?
+    - Which employers pay a min. V wage, in W state X city, with an approval rate of at least Y%, and a rank of Z or higher ?  
+
+
+
+**JOURNEYS are available only for [paid accounts](/symmetrics_pricing/)**
