@@ -1,8 +1,8 @@
-- name: REPORTS
+- name: INSIGHTS
   link: /reports/
   new_window: false
   highlight: false
-- name: FAQ
+- name: COACHING
   link: /faq/
   new_window: false
   highlight: false
