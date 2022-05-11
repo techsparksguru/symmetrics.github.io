@@ -16,3 +16,5 @@ end
 group :test do
   gem 'jekyll-admin', '~> 0.11.0'
 end
+
+gem "webrick", "~> 1.7"
