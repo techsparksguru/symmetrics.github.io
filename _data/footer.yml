@@ -21,6 +21,19 @@
     link: /reports
     new_window: true
 - links:
+  - name: Jobseeker
+    link: /candidate_use_cases
+    new_window: true
+  - name: Recruiter
+    link: /recruiter_use_cases
+    new_window: true
+  - name: Employer
+    link: /recruiter_use_cases
+    new_window: true
+  - name: Coaching
+    link: /career_coaching
+    new_window: true
+- links:
   - name: Informational
     link: /informational_reports
     new_window: true

@@ -2,8 +2,8 @@
   link: /reports/
   new_window: false
   highlight: false
-- name: COACHING
-  link: /career_coaching
+- name: USE-CASES
+  link: /candidate_use_cases
   new_window: false
   highlight: false
 - name: Pricing
