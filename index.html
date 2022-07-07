@@ -8,35 +8,23 @@ description: Helps bring fairness to the matching process among job seekers, rec
 		<h1 class="editable"><strong><a href="https://reports.symmetrics.fyi/login" target="_blank" style="color:white">Honest Analytics</a></strong> for all</h1>
 		<p class="subtext editable">Employer Submitted and <strong><a href="{{ site.baseurl }}/data_policy" target="_blank" style="color:white"><u>Verified</u></a></strong> Data</p>
 
-		<div>
+		<!-- <div>
 			<img src="https://static.symmetrics.fyi/cms/carousel-optimized.gif" alt="Screenshot"  class="" />
-		</div>
+		</div> -->
 		
 		<!-- <p class="subtext editable">( <a href="{{ site.baseurl }}/informational_reports" target="_blank" style="color:white"><u>Informational</u></a>, Personalized and <strong><a href="{{ site.baseurl }}/goal_based_reports" target="_blank" style="color:white"><u>Goal-based</u></a></strong> Actionable Analytics )</p> -->
-		<p class="subtext editable"> Symmetrics is a unique data platform, that helps <i><u>candidates, recruiters and employers</u></i> with <strong>analytics</strong> that are honest, transparent and actionable</p>
 		<div>
 			<img src="https://static.symmetrics.fyi/cms/collaboration.png" alt="Screenshot"  class="" />
 		</div>
-		
-		<div class="cta button alt">
-			<a href="{{ site.baseurl }}/candidate_use_cases" target="_blank"><strong>CANDIDATE USECASES</strong></a>
-			<br>
-			<br>
-			<br>
-			<br>
-			<iframe width="760" height="315" src="https://www.youtube.com/embed/videoseries?list=PLhWjCxPO7iTjf3z0Rl3Q1Ftptg2DpsWl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
-
-		<div class="cta button alt">
-			<a href="{{ site.baseurl }}/recruiter_use_cases" target="_blank"><strong>RECRUITER USECASES</strong></a>
-			<br>
-			<br>
-			<br>
-			<br>
-			<iframe width="760" height="315" src="https://www.youtube.com/embed/videoseries?list=PLhWjCxPO7iTgiY2oiFYI9s5KnNt0dzykA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
+		<p class="subtext editable"> Symmetrics is a unique data platform, that helps <a href="{{ site.baseurl }}/reports" style="color:white;text-decoration: underline;"><i><u>candidates, recruiters and employers</u></i></a> with <strong>analytics</strong> that are honest, transparent and actionable</p>
 
 		
+		<div class="cta button alt">
+			<a href="{{ site.baseurl }}/candidate_use_cases" target="https://www.youtube.com/embed/videoseries?list=PLhWjCxPO7iTjf3z0Rl3Q1Ftptg2DpsWl2"><strong>CANDIDATE USECASES</strong></a>
+			&nbsp;
+			<a href="{{ site.baseurl }}/recruiter_use_cases" target="https://www.youtube.com/embed/videoseries?list=PLhWjCxPO7iTgiY2oiFYI9s5KnNt0dzykA"><strong>RECRUITER USECASES</strong></a>
+			<!-- <iframe width="760" height="315" src="https://www.youtube.com/embed/videoseries?list=PLhWjCxPO7iTjf3z0Rl3Q1Ftptg2DpsWl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+		</div>		
 	</div>
 </section>
 
@@ -45,7 +33,7 @@ description: Helps bring fairness to the matching process among job seekers, rec
 	{% for person in site.staff_members %}
 		<li>
 			<div class="square-image"><a target="_blank" href="https://youtube.com/playlist?list=PLhWjCxPO7iTjf3z0Rl3Q1Ftptg2DpsWl2"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></a></div>
-			<div class="name"><a target="_blank" href="https://youtube.com/playlist?list=PLhWjCxPO7iTjf3z0Rl3Q1Ftptg2DpsWl2">{{ person.name }}</a></div>
+			<div class="name"><a target="_blank" href="{{site.baseurl}}/{{person.link}}">{{ person.name }}</a></div>
 			<div class="position">{{ person.position }}</div>
 		</li>
 	{% endfor %}
