@@ -3,6 +3,18 @@ title: Wages Hiring and Metrics for all
 description: Helps bring fairness to the matching process among job seekers, recruiters, staffers and employers
 ---
 {% include analytics.html %}
+
+<!--<p class="editor-link" style="text-align: center;"><a href="/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p> -->
+<ul class="staff">
+	{% for person in site.staff_members %}
+		<li>
+			<div class="square-image"><a target="_blank" href="{{ site.baseurl }}/{{ person.link }}"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></a></div>
+			<div class="name"><a target="_blank" href="{{site.baseurl}}/{{person.link}}">{{ person.name }}</a></div>
+			<div class="position">{{ person.position }}</div>
+		</li>
+	{% endfor %}
+</ul>
+
 <section class="hero">
 	<div class="text-container">
 		<h1 class="editable"><strong><a href="https://reports.symmetrics.fyi/login" target="_blank" style="color:white">Honest Analytics</a></strong> for all</h1>
@@ -28,16 +40,6 @@ description: Helps bring fairness to the matching process among job seekers, rec
 	</div>
 </section>
 
-<!--<p class="editor-link" style="text-align: center;"><a href="/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p> -->
-<ul class="staff">
-	{% for person in site.staff_members %}
-		<li>
-			<div class="square-image"><a target="_blank" href="https://youtube.com/playlist?list=PLhWjCxPO7iTjf3z0Rl3Q1Ftptg2DpsWl2"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></a></div>
-			<div class="name"><a target="_blank" href="{{site.baseurl}}/{{person.link}}">{{ person.name }}</a></div>
-			<div class="position">{{ person.position }}</div>
-		</li>
-	{% endfor %}
-</ul>
 <div class="content">
 	<section>
 		<div class="container flex">
